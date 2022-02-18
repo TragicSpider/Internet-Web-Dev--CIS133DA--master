@@ -1,0 +1,38 @@
+body {
+	background-color: #FFFFFF;
+	color: #666666;
+	font: sans-serif;
+}
+h1 {
+	background-color: #002171;
+	color: #FFFFFF;
+	font: sans-serif;
+	line-height: 200%;
+}
+nav {
+	font-weight: bold;
+	background-color: #BBDEFB;
+}
+h2 {
+	color: #1976d2;
+	font: sans-serif;	
+}
+dt {
+	color: #002171;
+	font-weight: bold;
+}
+.resort {
+	color:#1976d2;
+	font-size: 1.2em;
+}
+footer {
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+}
+.wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
