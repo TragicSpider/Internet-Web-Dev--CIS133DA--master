@@ -1,0 +1,53 @@
+body {
+	background-color: #90c7e3;
+	color: #666666;
+	font: sans-serif;
+	background: linear-gradient(to bottom, #ffffff, #90c7e3)
+}
+h1 {
+	background-color: #002171;
+	color: #FFFFFF;
+	font: sans-serif;
+	background-image: url(images/sunset.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	text-align: center;
+	padding-top: .5em;
+}
+nav {
+	font-weight: bold;
+	background-color: #BBDEFB;
+}
+h2 {
+	color: #1976d2;
+	font: sans-serif;	
+}
+dt {
+	color: #002171;
+	font-weight: bold;
+}
+.resort {
+	color:#1976d2;
+	font-size: 1.2em;
+}
+footer {
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+}
+.wrapper {
+	background-color: #ffffff;
+	width: 80%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 5px 5px 5px black;
+
+}
+.homehero{
+
+}
+.yurthero{
+
+}
